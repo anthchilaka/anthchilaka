@@ -36,8 +36,8 @@
 |---|---|
 | [`excel-to-fabric-procurement-analysis`](https://github.com/anthchilaka/excel-to-fabric-procurement-analysis) | End-to-end procurement analytics on Microsoft Fabric — Excel/CSV through a PySpark medallion Lakehouse (bronze→silver→gold) into a Direct Lake Power BI report |
 | [`anthonychilaka.com`](https://github.com/anthchilaka/anthonychilaka) | Personal brand website — React, TypeScript, Tailwind CSS, built on Vite |
-| `github-assist` | Claude AI skill — automated recruiter-ready GitHub portfolio publishing — 🚧 *coming soon* |
-| `linkedin-job-intel` | 7-layer daily job intelligence pipeline, remote-role filtering, keyword tracking — 🚧 *coming soon* |
+| [`github-portfolio-assist-claude-skill`](https://github.com/anthchilaka/github-portfolio-assist-claude-skill) | Claude AI skill — automated recruiter-ready GitHub portfolio publishing |
+| [`job-intel-pipeline-python`](https://github.com/anthchilaka/job-intel-pipeline-python) | 7-layer daily job intelligence pipeline, remote-role filtering, keyword tracking |
 
 ## 📊 Live Dashboards
 - **[anthonychilaka.com Analytics Dashboard](https://datastudio.google.com/reporting/a7d0e97b-9b45-4639-ac8d-66a962153e2a/page/GPGyF?s=t0Y1K25rP5Q)** (Looker Studio) — visitor analytics for my personal site, orchestrated in BigQuery with a full medallion architecture from raw GA4 data: bronze (raw GA4) → silver → gold, with the dashboard fed by the gold layer
